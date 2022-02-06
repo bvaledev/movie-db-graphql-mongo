@@ -1,8 +1,7 @@
-const { ApolloServer } = require('apollo-server-express');
-const { ApolloServerPluginDrainHttpServer } = require('apollo-server-core');
 const express = require('express');
 const http = require('http');
-
+const { ApolloServer } = require('apollo-server-express');
+const { ApolloServerPluginDrainHttpServer } = require('apollo-server-core');
 const {mergeTypeDefs} = require('@graphql-tools/merge');
 
 const {movieSchema, movieResolver, movieDataSource} = require("./modules/movie")

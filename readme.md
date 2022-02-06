@@ -4,6 +4,8 @@
 It's a very simple training graphql api that provide a movie's information. This project is an application of knowledge obtained 
 in Odyssey Apollo Associate certification.
 
+![Apollo Studio Explorer](screen.png "Apollo Studio Explorer")
+
 ## How to use
 
 ### Requirements
