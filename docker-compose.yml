@@ -1,0 +1,31 @@
+version: '3.7'
+services:
+  mongomdb:
+    image: mongo:latest
+    restart: always
+    ports:
+      - "27017:27017"
+    volumes:
+      - ./data/db:/data/db
+    networks:
+      - moviedb-network
+
+  api:
+    container_name: api-container
+    image: node:16
+    working_dir: /usr/src/movie-db-api
+    restart: always
+    command: bash -c "npm install --only=prod && npm run start"
+    environment:
+      - MONGO_CONNECTION=mongodb://mongomdb:27017/moviedb-prod
+      - PORT=3000
+    volumes:
+      - .:/usr/src/movie-db-api/
+    ports:
+      - "3000:3000"
+    networks:
+      - moviedb-network
+
+networks:
+  moviedb-network:
+    driver: bridge

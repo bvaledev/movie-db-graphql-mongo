@@ -1,0 +1,539 @@
+[
+  {
+    "_id": {
+      "$oid": "61ff33e19a78661e6b81d054"
+    },
+    "genreIds": [
+      {
+        "$oid": "61ff2aa79a78661e6b81d02f"
+      },
+      {
+        "$oid": "61ff2aa79a78661e6b81d030"
+      }
+    ],
+    "originalLanguage": "en",
+    "originalTitle": "Harry Potter and the Philosopher's Stone",
+    "overview": "Harry Potter é um garoto órfão que vive infeliz com seus tios, os Dursley. Em seu aniversário de 11 anos ele recebe uma carta que mudará sua vida: um convite para ingressar em Hogwarts.",
+    "popularity": 302.061,
+    "poster": "https://image.tmdb.org/t/p/original/l1FfRmKRNXRSqXT5GlMo16MX2LX.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/5jkE2SzR5uR2egEb1rRhF22JyWN.jpg",
+    "releaseDate": "2001-11-16",
+    "title": "Harry Potter e a Pedra Filosofal",
+    "trailer": "9fIObnIGMlI",
+    "voteAverage": 7.9,
+    "voteCount": 22030,
+    "numberOfViews": 0
+  },
+  {
+    "_id": {
+      "$oid": "61ff33e19a78661e6b81d055"
+    },
+    "genreIds": [
+      {
+        "$oid": "61ff2aa79a78661e6b81d02f"
+      },
+      {
+        "$oid": "61ff2aa79a78661e6b81d030"
+      }
+    ],
+    "originalLanguage": "en",
+    "originalTitle": "Harry Potter and the Half-Blood Prince",
+    "overview": "À medida que Lorde Voldemort aperta seu cerco ao mundo dos Trouxas e dos feiticeiros. Hogwarts deixou de ser um paraiso protegido. Harry suspeita que existam perigos até mesmo dentro do castelo, mas Dumbledore está mais preocupado para a batalha final que está próximo de se iniciar. Juntos, eles se esforçam para descobrir a chave que desbloqueia as defesas de Voldemort e, para isso, Dumbledore recruta seu velho amigo horace slughorn, quem, ele acredita, possuí informações valiosas a respeito. Mesmo quando um confronto decisivo se aproxima, há tempo para romance nos corações de Harry, Ron, Hermione e seus colegas de classe. O amor está no ar, mas o perigo também e Hogwarts poderá nunca mais ser a mesma.",
+    "popularity": 209.801,
+    "poster": "https://image.tmdb.org/t/p/original/hTQQ5l9mxA3Rob8PTyvrNNGuj6y.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/urDWNffjwmNi5IQaezw9GwqkUXa.jpg",
+    "releaseDate": "2009-07-07",
+    "title": "Harry Potter e o Enigma do Príncipe",
+    "trailer": "wgkHfUaG1nI",
+    "voteAverage": 7.7,
+    "voteCount": 15716,
+    "numberOfViews": 0
+  },
+  {
+    "_id": {
+      "$oid": "61ff33e19a78661e6b81d056"
+    },
+    "genreIds": [
+      {
+        "$oid": "61ff2aa79a78661e6b81d02f"
+      },
+      {
+        "$oid": "61ff2aa79a78661e6b81d030"
+      }
+    ],
+    "originalLanguage": "en",
+    "originalTitle": "Harry Potter and the Goblet of Fire",
+    "overview": "Quando o nome de Harry Potter emerge do Cálice de Fogo, ele se transforma em um competidor em uma extenuante batalha de magia entre três escolas de feiticeiros – o Torneio Tribruxo. Mas se Harry não se inscreveu para o tal torneio, quem o fez? Agora, Harry precisa confrontar um mortal dragão, ferozes demônios da água e um labirinto encantado aonde se deparará com Aquele-Que-Não-Deve-Ser-Nomeado. Nesta quarta adaptação da série Harry Potter, criada por J.K. Rowling, tudo está modificado, a começar pelo próprio Harry e seus inseparáveis amigos, Ron e Hermione, que deixam a infância para sempre e partem para desafios maiores do que tudo aquilo que um dia eles já imaginaram.",
+    "popularity": 238.404,
+    "poster": "https://image.tmdb.org/t/p/original/5oWB3hjzyECRBAjgWkmZinxl9qA.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/5rrGVmRUuCKVbqUu41XIWTXJmNA.jpg",
+    "releaseDate": "2005-11-16",
+    "title": "Harry Potter e o Cálice de Fogo",
+    "trailer": "0aYv3taYoro",
+    "voteAverage": 7.8,
+    "voteCount": 16787,
+    "numberOfViews": 0
+  },
+  {
+    "_id": {
+      "$oid": "61ff33e19a78661e6b81d057"
+    },
+    "genreIds": [
+      {
+        "$oid": "61ff2aa79a78661e6b81d02f"
+      },
+      {
+        "$oid": "61ff2aa79a78661e6b81d030"
+      }
+    ],
+    "originalLanguage": "en",
+    "originalTitle": "Harry Potter and the Chamber of Secrets",
+    "overview": "Carros voadores, árvores que lutam e um misterioso elfo, com um aviso ainda mais misterioso. Harry Potter está pronto para dar início ao segundo ano de sua maravilhosa jornada no mundo da bruxaria. Em Hogwarts nesse ano, aranhas falam, cartas dão broncas e a habilidade de Harry para falar com cobras voltará contra ele. De clubes de duelo a jogadores de quadribol desonestos, esse será um ano de aventura e perigo para todos. Quando a mensagem sangrenta na parede anuncia que a Câmara Secreta foi aberta, Harry, Rony e Hermione percebem que para salvar Hogwarts será preciso muita mágica e coragem. Confira essa enfeitiçante adaptação do segundo livro da obra da escritora J.K. Rowling e prepare-se para ficar petrificado quando Harry Potter demonstrar que, mais que um bruxo, é um verdadeiro herói.",
+    "popularity": 236.235,
+    "poster": "https://image.tmdb.org/t/p/original/811j0Jf2D0mK1U6RxXJoZgOB29n.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/1stUIsjawROZxjiCMtqqXqgfZWC.jpg",
+    "releaseDate": "2002-11-13",
+    "title": "Harry Potter e a Câmara Secreta",
+    "trailer": "K2jg9uiT1q8",
+    "voteAverage": 7.7,
+    "voteCount": 17756,
+    "numberOfViews": 0
+  },
+  {
+    "_id": {
+      "$oid": "61ff33e19a78661e6b81d058"
+    },
+    "genreIds": [
+      {
+        "$oid": "61ff2aa79a78661e6b81d02f"
+      },
+      {
+        "$oid": "61ff2aa79a78661e6b81d030"
+      }
+    ],
+    "originalLanguage": "en",
+    "originalTitle": "Harry Potter and the Prisoner of Azkaban",
+    "overview": "Quando a desprezível Tia Guida voa pelo céu na noite, Harry parte para o que será seu terceiro ano em Hogwarts. Um passeio no Nôitibus o leva para o Beco Diagonal onde ele fica sabendo que um prisioneiro foragido, Sirius Black está atrás dele. Em Hogwarts, Harry e seus amigos aprendem a delicada arte de se aproximar de um Hipogrifo, como transformar monstros em risadas e até mesmo a voltar no tempo. Dementadores sugadores de almas pairam sobre Hogwarts, ameaçando Harry, enquanto um seguidor de Aquele-Que-Não-Se-Deve-Nomear espreita pela escola. E Harry será forçado a confrontar todos eles. Dirigido por Alfonso Cuarón e baseado no terceiro livro de J.K. Rowling, essa maravilhosa história traz risadas, suspense e surpresas de tirar o fôlego, a especialidade dos filmes de Harry Potter. Prepare-se!",
+    "popularity": 227.029,
+    "poster": "https://image.tmdb.org/t/p/original/1HdMUghqlgOIvbsU9ZtO40IPRzl.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/vbk5CfaAHOjQPSAcYm6AoRRz2Af.jpg",
+    "releaseDate": "2004-05-31",
+    "title": "Harry Potter e o Prisioneiro de Azkaban",
+    "trailer": "V_JtCbmkPA0",
+    "voteAverage": 8,
+    "voteCount": 17452,
+    "numberOfViews": 0
+  },
+  {
+    "_id": {
+      "$oid": "61ff33e19a78661e6b81d059"
+    },
+    "genreIds": [
+      {
+        "$oid": "61ff2aa79a78661e6b81d02f"
+      },
+      {
+        "$oid": "61ff2aa79a78661e6b81d030"
+      }
+    ],
+    "originalLanguage": "en",
+    "originalTitle": "Harry Potter and the Order of the Phoenix",
+    "overview": "A rebelião começa! Lord Voldemort está de volta, mas o Ministério da Magia está fazendo tudo a seu alcance para impedir que a comunidade mundial de bruxos descubra isso – incluindo indicar a oficial do Ministério, Dolores Umbridge, como a nova professora de Defesa Contra as Artes das Trevas de Hogwarts. Quando Umbridge se recusa a ensinar a prática de mágica defensiva, Rony e Hermione convencem Harry a secretamente treinar um grupo de estudantes para a guerra de magia que está prestes a estourar. Um terrível combate entre o bem e o mal será o incrível ápice desta versão para o quinto filme da série Harry Potter, mais uma vez baseado na obra de J.K. Rowling. Se prepare para a batalha!",
+    "popularity": 219.815,
+    "poster": "https://image.tmdb.org/t/p/original/tIf9aUyNljda9MG1pjlOLHCZ3b0.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/sO2VWeJ8qagNtYoznyLRL8TeSkw.jpg",
+    "releaseDate": "2007-06-28",
+    "title": "Harry Potter e a Ordem da Fênix",
+    "trailer": "Tbv2Al6LGW8",
+    "voteAverage": 7.7,
+    "voteCount": 15940,
+    "numberOfViews": 0
+  },
+  {
+    "_id": {
+      "$oid": "61ff33e19a78661e6b81d05a"
+    },
+    "genreIds": [
+      {
+        "$oid": "61ff2aa79a78661e6b81d02f"
+      },
+      {
+        "$oid": "61ff2aa79a78661e6b81d030"
+      }
+    ],
+    "originalLanguage": "en",
+    "originalTitle": "Harry Potter and the Deathly Hallows: Part 2",
+    "overview": "No final épico, a batalha entre as forças do bem e do mal no mundo da bruxaria toma proporções de uma guerra mundial. As apostas nunca foram tão altas e ninguém está a salvo. Mas é harry que pode ser convocado para fazer um derradeiro sacrifício, à medida que ele se aproxima cada vez mais do confronto final com Lorde Voldemort. Tudo termina aqui.",
+    "popularity": 226.358,
+    "poster": "https://image.tmdb.org/t/p/original/yD3VosOVW8WxPUzBDpEdzfv5pGx.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/n5A7brJCjejceZmHyujwUTVgQNC.jpg",
+    "releaseDate": "2011-07-07",
+    "title": "Harry Potter e as Relíquias da Morte - Parte 2",
+    "trailer": "XS3fRKaapKY",
+    "voteAverage": 8.1,
+    "voteCount": 16822,
+    "numberOfViews": 0
+  },
+  {
+    "_id": {
+      "$oid": "61ff33e19a78661e6b81d05b"
+    },
+    "genreIds": [
+      {
+        "$oid": "61ff2aa79a78661e6b81d02f"
+      },
+      {
+        "$oid": "61ff2aa79a78661e6b81d030"
+      }
+    ],
+    "originalLanguage": "en",
+    "originalTitle": "Harry Potter and the Deathly Hallows: Part 1",
+    "overview": "Harry, Ron e Hermione estão determinados em sua missão de descobrir e acabar com o segredo da imortalidade e do poder de destruição de Voldemort – os Horcruxes. Fugitivos e sozinhos, os três amigos devem apenas contar uns com os outros, agora mas do que nunca... Mas as Forças das Trevas no caminho ameaçam separá-los para sempre.",
+    "popularity": 200.306,
+    "poster": "https://image.tmdb.org/t/p/original/67FVFOTaeBUQnimhCWpUkDawDct.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/fXRXpzxUApE3OuXhIqsdavQjCVa.jpg",
+    "releaseDate": "2010-10-17",
+    "title": "Harry Potter e as Relíquias da Morte - Parte 1",
+    "trailer": "kmXjPbN-rYU",
+    "voteAverage": 7.8,
+    "voteCount": 15621,
+    "numberOfViews": 0
+  },
+  {
+    "genreIds": [
+      {
+        "$oid": "61ff2aa79a78661e6b81d030"
+      },
+      {
+        "$oid": "61ff2aa79a78661e6b81d037"
+      },
+      {
+        "$oid": "61ff2aa79a78661e6b81d02f"
+      }
+    ],
+    "originalLanguage": "en",
+    "originalTitle": "The Lord of the Rings: The Fellowship of the Ring",
+    "overview": "Em uma terra fantástica e única, um hobbit recebe de presente de seu tio um anel mágico e maligno que precisa ser destruído antes que caia nas mãos do mal. Para isso, o hobbit Frodo tem um caminho árduo pela frente, onde encontra perigo, medo e seres bizarros. Ao seu lado para o cumprimento desta jornada, ele aos poucos pode contar com outros hobbits, um elfo, um anão, dois humanos e um mago, totalizando nove pessoas que formam a Sociedade do Anel.",
+    "popularity": 154.361,
+    "poster": "https://image.tmdb.org/t/p/original/omoMXT3Z7XrQwRZ2OGJGNWbdeEl.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/vRQnzOn4HjIMX4LBq9nHhFXbsSu.jpg",
+    "releaseDate": "2001-12-18",
+    "title": "O Senhor dos Anéis: A Sociedade do Anel",
+    "trailer": "",
+    "voteAverage": 8.4,
+    "voteCount": 20443,
+    "numberOfViews": 0
+  },
+  {
+    "genreIds": [
+      {
+        "$oid": "61ff2aa79a78661e6b81d030"
+      },
+      {
+        "$oid": "61ff2aa79a78661e6b81d037"
+      },
+      {
+        "$oid": "61ff2aa79a78661e6b81d02f"
+      }
+    ],
+    "originalLanguage": "en",
+    "originalTitle": "The Lord of the Rings: The Return of the King",
+    "overview": "O confronto final entre as forças do bem e do mal que lutam pelo controle do futuro da Terra Média se aproxima. Sauron planeja um grande ataque a Minas Tirith, capital de Gondor, o que faz com que Gandalf e Pippin partam para o local na intenção de ajudar a resistência. Um exército é reunido por Theoden em Rohan, em mais uma tentativa de deter as forças de Sauron. Enquanto isso, Frodo, Sam e Gollum seguem sua viagem rumo à Montanha da Perdição para destruir o anel.",
+    "popularity": 137.037,
+    "poster": "https://image.tmdb.org/t/p/original/izPNMzffsgZUvlbiYlPxjFr3TAa.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/lXhgCODAbBXL5buk9yEmTpOoOgR.jpg",
+    "releaseDate": "2003-12-01",
+    "title": "O Senhor dos Anéis: O Retorno do Rei",
+    "trailer": "",
+    "voteAverage": 8.5,
+    "voteCount": 19015,
+    "numberOfViews": 0
+  },
+  {
+    "genreIds": [
+      {
+        "$oid": "61ff2aa79a78661e6b81d030"
+      },
+      {
+        "$oid": "61ff2aa79a78661e6b81d037"
+      },
+      {
+        "$oid": "61ff2aa79a78661e6b81d02f"
+      }
+    ],
+    "originalLanguage": "en",
+    "originalTitle": "The Lord of the Rings: The Two Towers",
+    "overview": "Após a captura de Merry e Pippy pelos orcs, a Sociedade do Anel é dissolvida. Frodo e Sam seguem sua jornada rumo à Montanha da Perdição para destruir o anel e descobrem que estão sendo perseguidos pelo misterioso Gollum. Enquanto isso, Aragorn, o elfo e arqueiro Legolas e o anão Gimli partem para resgatar os hobbits sequestrados e chegam ao reino de Rohan, onde o rei Theoden foi vítima de uma maldição mortal de Saruman.",
+    "popularity": 142.68,
+    "poster": "https://image.tmdb.org/t/p/original/20eUL6eN89SM0U7KPDw8iR82mOT.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/nS4picOwj15APKzJeBCk6EBcMG5.jpg",
+    "releaseDate": "2002-12-18",
+    "title": "O Senhor dos Anéis: As Duas Torres",
+    "trailer": "",
+    "voteAverage": 8.4,
+    "voteCount": 17675,
+    "numberOfViews": 0
+  },
+  {
+    "backdrop": "https://image.tmdb.org/t/p/original/cHkhb5A4gQRK6zs6Pv7zorHs8Nk.jpg",
+    "genreIds": [
+      {
+        "$oid": "61ff2aa79a78661e6b81d02f"
+      },
+      {
+        "$oid": "61ff2aa79a78661e6b81d03f"
+      },
+      {
+        "$oid": "61ff2aa79a78661e6b81d033"
+      },
+      {
+        "$oid": "61ff2aa79a78661e6b81d030"
+      }
+    ],
+    "originalLanguage": "en",
+    "originalTitle": "Furious 7",
+    "overview": "Após os acontecimentos em Londres, Dom, Brian, Letty e o resto da equipe têm a chance de voltar para os Estados Unidos e recomeçar suas vidas. Mas a tranquilidade do grupo é destruída quando Deckard Shaw, um assassino profissional, quer vingança pelo acidente que deixou seu irmão em coma. Agora, a equipe tem de unir forças para deter um vilão novo e ainda mais perigoso. Dessa vez, não se trata apenas de uma questão de velocidade: a corrida é pela sobrevivência.",
+    "popularity": 131.359,
+    "poster": "https://image.tmdb.org/t/p/original/vK3EINuibdkBwUe9jOhVUXtLeb6.jpg",
+    "releaseDate": "2015-04-01",
+    "title": "Velozes & Furiosos 7",
+    "trailer": "hujU0dw6Erk",
+    "voteAverage": 7.3,
+    "voteCount": 8925,
+    "numberOfViews": 0
+  },
+  {
+    "backdrop": "https://image.tmdb.org/t/p/original/fWjcUTKOKsAPK4VUAzEQW4kN4K6.jpg",
+    "genreIds": [
+      {
+        "$oid": "61ff2aa79a78661e6b81d02f"
+      },
+      {
+        "$oid": "61ff2aa79a78661e6b81d033"
+      },
+      {
+        "$oid": "61ff2aa79a78661e6b81d03f"
+      },
+      {
+        "$oid": "61ff2aa79a78661e6b81d030"
+      }
+    ],
+    "originalLanguage": "en",
+    "originalTitle": "F9",
+    "overview": "Dominic Toretto e sua família precisam enfrentar o seu irmão mais novo Jakob, um assassino mortal que está trabalhando com uma antiga inimiga, a cyber-terrorista Cipher.",
+    "popularity": 567.81,
+    "poster": "https://image.tmdb.org/t/p/original/fnAzaxRSiveFafudJtByxA7I2xT.jpg",
+    "releaseDate": "2021-05-19",
+    "title": "Velozes & Furiosos 9",
+    "trailer": "NnDGWyfP7q4",
+    "voteAverage": 7.3,
+    "voteCount": 4919,
+    "numberOfViews": 0
+  },
+  {
+    "backdrop": "https://image.tmdb.org/t/p/original/jzdnhRhG0dsuYorwvSqPqqnM1cV.jpg",
+    "genreIds": [
+      {
+        "$oid": "61ff2aa79a78661e6b81d02f"
+      },
+      {
+        "$oid": "61ff2aa79a78661e6b81d033"
+      },
+      {
+        "$oid": "61ff2aa79a78661e6b81d03f"
+      }
+    ],
+    "originalLanguage": "en",
+    "originalTitle": "The Fate of the Furious",
+    "overview": "Depois que Brian e Mia se aposentaram, e o resto da equipe foi exonerado, Dom e Letty estão em lua de mel e levam uma vida pacata e completamente normal. Mas a adrenalina do passado volta com tudo quando uma mulher misteriosa faz com que Dom retorne ao mundo do crime e da velocidade.",
+    "popularity": 146.744,
+    "poster": "https://image.tmdb.org/t/p/original/38RVo4cX1O7Ia6k9WXcxkxprHm.jpg",
+    "releaseDate": "2017-04-12",
+    "title": "Velozes & Furiosos 8",
+    "trailer": "KvSlvtPnZTo",
+    "voteAverage": 6.9,
+    "voteCount": 8737,
+    "numberOfViews": 0
+  },
+  {
+    "backdrop": "https://image.tmdb.org/t/p/original/3ZiM6gm2XL8qnhZCXsTjixvaH4v.jpg",
+    "genreIds": [
+      {
+        "$oid": "61ff2aa79a78661e6b81d02f"
+      },
+      {
+        "$oid": "61ff2aa79a78661e6b81d033"
+      },
+      {
+        "$oid": "61ff2aa79a78661e6b81d035"
+      },
+      {
+        "$oid": "61ff2aa79a78661e6b81d03f"
+      }
+    ],
+    "originalLanguage": "en",
+    "originalTitle": "Fast & Furious",
+    "overview": "Depois de ser visto rumo ao México no filme que deu origem a série, Dominic \"Dom\" Toretto reaparece na República Dominicana praticando seus golpes ao lado de sua namorada Letty e sua gangue. Com o FBI na sua cola, Dom decide fugir para não comprometer seus comparsas. Contudo, um assassinato cometido por um traficante de drogas acende nele uma sede de vingança que o faz cruzar novamente com o agente Brian O'Conner numa perigosa missão.",
+    "popularity": 32.595,
+    "poster": "https://image.tmdb.org/t/p/original/zvjQPVttJWaCSbzMijyc2x2MLr4.jpg",
+    "releaseDate": "2009-04-02",
+    "title": "Velozes e Furiosos 4",
+    "trailer": "VZAqXVmE2vo",
+    "voteAverage": 6.7,
+    "voteCount": 5799,
+    "numberOfViews": 0
+  },
+  {
+    "backdrop": "https://image.tmdb.org/t/p/original/mRfI3y2oAd7ejur2di09xC9niqp.jpg",
+    "genreIds": [
+      {
+        "$oid": "61ff2aa79a78661e6b81d02f"
+      },
+      {
+        "$oid": "61ff2aa79a78661e6b81d03f"
+      },
+      {
+        "$oid": "61ff2aa79a78661e6b81d033"
+      }
+    ],
+    "originalLanguage": "en",
+    "originalTitle": "Fast & Furious 6",
+    "overview": "Desde que o golpe de Dom e Brian no Rio de Janeiro deixou o grupo com US$100 milhões, a equipe se espalhou pelo mundo. Um dia, Hobbs pede a Dom que reúna um grupo de elite em Londres e apreenda uma organização de mercenários nas ruas, cujo mentor é apoiado por Letty, a antiga namorada de Dom que ele acreditava estar morta. A recompensa? Absolvição a todos eles para poderem voltar para as suas casas e tornarem suas famílias completas novamente.",
+    "popularity": 14.914,
+    "poster": "https://image.tmdb.org/t/p/original/yeF9WQvxHRrJnr5fGEfnzDpn4pA.jpg",
+    "releaseDate": "2013-05-21",
+    "title": "Velozes & Furiosos 6",
+    "trailer": "KkzzyAUJqkY",
+    "voteAverage": 6.8,
+    "voteCount": 9097,
+    "numberOfViews": 0
+  },
+  {
+    "backdrop": "https://image.tmdb.org/t/p/original/hpgda6P9GutvdkDX5MUJ92QG9aj.jpg",
+    "genreIds": [
+      {
+        "$oid": "61ff2aa79a78661e6b81d02f"
+      },
+      {
+        "$oid": "61ff2aa79a78661e6b81d030"
+      },
+      {
+        "$oid": "61ff2aa79a78661e6b81d032"
+      }
+    ],
+    "originalLanguage": "en",
+    "originalTitle": "Fast & Furious Presents: Hobbs & Shaw",
+    "overview": "O corpulento policial Luke Hobbs se junta ao fora da lei Deckard Shaw para combater um terrorista geneticamente melhorado que tem força sobre-humana.",
+    "popularity": 184.91,
+    "poster": "https://image.tmdb.org/t/p/original/w5HWdAJyAbfpXbXDmEt5OIpf6kQ.jpg",
+    "releaseDate": "2019-08-01",
+    "title": "Velozes & Furiosos: Hobbs & Shaw",
+    "trailer": "gPfosjHCY0I",
+    "voteAverage": 6.9,
+    "voteCount": 5590,
+    "numberOfViews": 0
+  },
+  {
+    "backdrop": "https://image.tmdb.org/t/p/original/jY9ef5nqY4xIIMu3yzW3qamUCoi.jpg",
+    "genreIds": [
+      {
+        "$oid": "61ff2aa79a78661e6b81d02f"
+      },
+      {
+        "$oid": "61ff2aa79a78661e6b81d033"
+      },
+      {
+        "$oid": "61ff2aa79a78661e6b81d03f"
+      }
+    ],
+    "originalLanguage": "en",
+    "originalTitle": "The Fast and the Furious",
+    "overview": "Um investigador da polícia se infiltra em uma turma de rachas suspeita de roubar caminhões, mas acaba apaixonando-se pela irmã do líder.",
+    "popularity": 7.336,
+    "poster": "https://image.tmdb.org/t/p/original/s02HsnF8H2plColwtkbqYz9GTw5.jpg",
+    "releaseDate": "2001-06-22",
+    "title": "Velozes e Furiosos",
+    "trailer": "4bEMXlQXiS0",
+    "voteAverage": 6.9,
+    "voteCount": 7961,
+    "numberOfViews": 0
+  },
+  {
+    "backdrop": "https://image.tmdb.org/t/p/original/lvSxooYCRuF3S2kHWXYTrcOtYco.jpg",
+    "genreIds": [
+      {
+        "$oid": "61ff2aa79a78661e6b81d02f"
+      },
+      {
+        "$oid": "61ff2aa79a78661e6b81d03f"
+      },
+      {
+        "$oid": "61ff2aa79a78661e6b81d033"
+      }
+    ],
+    "originalLanguage": "en",
+    "originalTitle": "Fast Five",
+    "overview": "Desde que o ex-policial Brian O'Conner e Mia Torretto libertaram Dom da prisão, eles viajam pelas fronteiras para fugir das autoridades. No Rio de Janeiro, eles fazem um último trabalho antes que possam ganhar sua liberdade definitiva. Montando sua equipe de elite de pilotos de carro, Brian e Dom sabem que têm de enfrentar o empresário corrupto que quer vê-los mortos, antes que o agente federal em sua trilha os encontre.",
+    "popularity": 17.034,
+    "poster": "https://image.tmdb.org/t/p/original/l1lvu5P4xfBicxuhgL0pmvkWReO.jpg",
+    "releaseDate": "2011-04-20",
+    "title": "Velozes & Furiosos 5: Operação Rio",
+    "trailer": "T5WGRFQ8qto",
+    "voteAverage": 7.2,
+    "voteCount": 6536,
+    "numberOfViews": 0
+  },
+  {
+    "backdrop": "https://image.tmdb.org/t/p/original/z3ioibdjWZOYeXjoiabFOFOfPI3.jpg",
+    "genreIds": [
+      {
+        "$oid": "61ff2aa79a78661e6b81d02f"
+      },
+      {
+        "$oid": "61ff2aa79a78661e6b81d033"
+      },
+      {
+        "$oid": "61ff2aa79a78661e6b81d03f"
+      }
+    ],
+    "originalLanguage": "en",
+    "originalTitle": "2 Fast 2 Furious",
+    "overview": "O ex-policial Brian comete uma grande traição, juntando-se a um amigo ex-presidiário no transporte de dinheiro sujo para uma importadora-exportadora muito suspeita.",
+    "popularity": 10.469,
+    "poster": "https://image.tmdb.org/t/p/original/tMUnCAgfARTdAu8ylPw4Wjh3e5N.jpg",
+    "releaseDate": "2003-06-05",
+    "title": "+ Velozes + Furiosos",
+    "trailer": "ONs4_PtakGc",
+    "voteAverage": 6.4,
+    "voteCount": 5762,
+    "numberOfViews": 0
+  },
+  {
+    "backdrop": "https://image.tmdb.org/t/p/original/zQiLqxEjtKCCCggQ3G8ia9viS77.jpg",
+    "genreIds": [
+      {
+        "$oid": "61ff2aa79a78661e6b81d02f"
+      },
+      {
+        "$oid": "61ff2aa79a78661e6b81d033"
+      },
+      {
+        "$oid": "61ff2aa79a78661e6b81d035"
+      },
+      {
+        "$oid": "61ff2aa79a78661e6b81d03f"
+      }
+    ],
+    "originalLanguage": "en",
+    "originalTitle": "The Fast and the Furious: Tokyo Drift",
+    "overview": "Sean Boswell é um piloto de rua que desafia seu rival e bate o carro no fim da corrida. Então, Sean decide se mudar para o Japão em companhia de seu pai para evitar a prisão nos Estados Unidos, já que os rachas não são nada populares com as autoridades. Em Tóquio, ele começa a aprender um excitante e perigoso estilo novo de competir nas ruas. Só que os riscos ficam ainda mais altos quando Sean decide competir com o campeão local e acaba se apaixonando pela namorada dele.",
+    "popularity": 14.946,
+    "poster": "https://image.tmdb.org/t/p/original/qexEesWpZgxLFlOrm54Sjn3Z7Y0.jpg",
+    "releaseDate": "2006-06-03",
+    "title": "Velozes e Furiosos: Desafio em Tóquio",
+    "trailer": "HVQWZkd8cDk",
+    "voteAverage": 6.4,
+    "voteCount": 5190,
+    "numberOfViews": 0
+  }
+]

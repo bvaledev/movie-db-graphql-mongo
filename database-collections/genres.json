@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "61ff2aa79a78661e6b81d02f"
+  },
+  "name": "Ação"
+},{
+  "_id": {
+    "$oid": "61ff2aa79a78661e6b81d030"
+  },
+  "name": "Aventura"
+},{
+  "_id": {
+    "$oid": "61ff2aa79a78661e6b81d031"
+  },
+  "name": "Animação"
+},{
+  "_id": {
+    "$oid": "61ff2aa79a78661e6b81d032"
+  },
+  "name": "Comédia"
+},{
+  "_id": {
+    "$oid": "61ff2aa79a78661e6b81d033"
+  },
+  "name": "Crime"
+},{
+  "_id": {
+    "$oid": "61ff2aa79a78661e6b81d034"
+  },
+  "name": "Documentário"
+},{
+  "_id": {
+    "$oid": "61ff2aa79a78661e6b81d035"
+  },
+  "name": "Drama"
+},{
+  "_id": {
+    "$oid": "61ff2aa79a78661e6b81d036"
+  },
+  "name": "Família"
+},{
+  "_id": {
+    "$oid": "61ff2aa79a78661e6b81d037"
+  },
+  "name": "Fantasia"
+},{
+  "_id": {
+    "$oid": "61ff2aa79a78661e6b81d038"
+  },
+  "name": "História"
+},{
+  "_id": {
+    "$oid": "61ff2aa79a78661e6b81d039"
+  },
+  "name": "Terror"
+},{
+  "_id": {
+    "$oid": "61ff2aa79a78661e6b81d03a"
+  },
+  "name": "Música"
+},{
+  "_id": {
+    "$oid": "61ff2aa79a78661e6b81d03b"
+  },
+  "name": "Mistério"
+},{
+  "_id": {
+    "$oid": "61ff2aa79a78661e6b81d03c"
+  },
+  "name": "Romance"
+},{
+  "_id": {
+    "$oid": "61ff2aa79a78661e6b81d03d"
+  },
+  "name": "Ficção científica"
+},{
+  "_id": {
+    "$oid": "61ff2aa79a78661e6b81d03e"
+  },
+  "name": "Cinema TV"
+},{
+  "_id": {
+    "$oid": "61ff2aa79a78661e6b81d03f"
+  },
+  "name": "Thriller"
+},{
+  "_id": {
+    "$oid": "61ff2aa79a78661e6b81d040"
+  },
+  "name": "Guerra"
+},{
+  "_id": {
+    "$oid": "61ff2aa79a78661e6b81d041"
+  },
+  "name": "Faroeste"
+}]
