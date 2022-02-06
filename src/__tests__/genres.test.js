@@ -44,7 +44,9 @@ describe('Genre Graphql', () => {
             name
           }
         }`
+
         const response = await request(app).post('/graphql').send({query})
+
         expect(response.body.data.genres).toBeTruthy()
         expect(response.body.data.genres.length).toBe(3)
     })

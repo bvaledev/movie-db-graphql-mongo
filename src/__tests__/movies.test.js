@@ -107,7 +107,9 @@ describe('Movie Graphql', () => {
             numberOfViews
           }
         } `
+
         const response = await request(app).post('/graphql').send({query})
+
         expect(response.body.data.movies).toBeTruthy()
         expect(response.body.data.movies.length).toBe(3)
     })
@@ -125,7 +127,9 @@ describe('Movie Graphql', () => {
             }
           }
         }`
+
         const response = await request(app).post('/graphql').send({query})
+
         expect(response.body.data.movie.id).toBe(movieId)
     })
 
@@ -144,7 +148,9 @@ describe('Movie Graphql', () => {
         const variables = {
             ids: [genreId]
         }
+
         const response = await request(app).post('/graphql').send({query, variables})
+
         expect(response.body.data.movieByGenres.length).toBe(1)
         expect(response.body.data.movieByGenres).toBeTruthy()
     })
@@ -162,7 +168,9 @@ describe('Movie Graphql', () => {
         const variables = {
             incrementViewId: movieId
         }
+
         const response = await request(app).post('/graphql').send({query, variables})
+
         expect(response.body.data).toMatchInlineSnapshot(`
             Object {
               "incrementViews": Object {
@@ -187,7 +195,9 @@ describe('Movie Graphql', () => {
         const variables = {
             incrementViewId: ObjectId("507f1f77bcf86cd799439011")
         }
+
         const response = await request(app).post('/graphql').send({query, variables})
+
         expect(response.body.data).toMatchInlineSnapshot(`
         Object {
           "incrementViews": Object {

@@ -23,4 +23,4 @@ in Odyssey Apollo Associate certification.
 4. Inside project folder have a folder named `database-collections`, import data to database with the json files inside this folder
 
 > ### Final
-1. Access `http://localhost:3000` to open the Apollo Studio Explorer
+1. Access `http://localhost:3000/graphql` to open the Apollo Studio Explorer
