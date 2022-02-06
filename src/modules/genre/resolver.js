@@ -7,9 +7,6 @@ const genreResolver = {
             return dataSources.genreDB.findGenres(genreIds)
         }
     },
-    Genre: {
-
-    }
 }
 
 module.exports = genreResolver

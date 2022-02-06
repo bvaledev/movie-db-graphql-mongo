@@ -23,10 +23,13 @@ class MovieDataSource {
 
     async incrementViews(id) {
         const collection = await MongoHelper.getCollection('movies')
-        await collection.updateOne(
+        const movieExist = await collection.findOne({_id: ObjectId(id)})
+        if(!movieExist) throw new Error('Movie does not exists')
+        const data = await collection.updateOne(
             {_id: ObjectId(id)},
             {$inc: {numberOfViews: 1}}
         )
+        console.log(data)
     }
 }
 

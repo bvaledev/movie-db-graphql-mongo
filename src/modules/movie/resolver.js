@@ -6,20 +6,21 @@ const movieResolver = {
     },
     Mutation: {
         incrementViews: (_, {id}, {dataSources}) => {
-            try{
-                dataSources.movieDB.incrementViews(id)
-                return {
-                    code: 200,
-                    success: true,
-                    message: "Number of views incremented"
-                }
-            }catch(error){
-                return {
-                    code: 500,
-                    success: true,
-                    message: error.message
-                }
-            }
+
+               return dataSources.movieDB.incrementViews(id).then(() => {
+                    return {
+                        code: 200,
+                        success: true,
+                        message: "Number of views incremented"
+                    }
+                }).catch((error) =>{
+                   return {
+                       code: 500,
+                       success: false,
+                       message: error.message
+                   }
+               })
+
         }
     }
 }

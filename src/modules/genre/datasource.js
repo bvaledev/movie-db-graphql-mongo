@@ -2,12 +2,6 @@ const MongoHelper = require('../../database/mongo-helper')
 const {ObjectId} = require("mongodb");
 
 class GenreDataSource {
-    async getGenres() {
-        const collection = await MongoHelper.getCollection('genres')
-        const genres = await collection.find().toArray()
-        return MongoHelper.mapList(genres)
-    }
-
     async getGenresWithMoviesCount() {
         const collection = await MongoHelper.getCollection('genres')
         const genres = await collection.aggregate([
