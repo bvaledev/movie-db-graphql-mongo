@@ -1,8 +1,12 @@
 # Movie DB - Graphql & Mongodb
 [![Coverage Status](https://coveralls.io/repos/github/bvaledev/movie-db-graphql-mongo/badge.svg?branch=main)](https://coveralls.io/github/bvaledev/movie-db-graphql-mongo?branch=main)
 
-It's a very simple training graphql api that provide a movie's information. This project is an application of knowledge obtained 
-in Odyssey Apollo Associate certification.
+It's a very simple training graphql api that provide a movie's information. This project is an application of knowledge obtained in Odyssey Apollo Associate certification.
+
+This application use MongoDB and Graphql with best practices referenced on development and have 100% of test coverage. In the future, I will change this app to use typescript.
+
+The movie db is like a name, just list a catalog of movie with some information, for example: original language, original title, overview, popularity, poster image, backdrop image, release date, title, trailer, vote average, vote count, number of page views and genres.
+
 
 ![Apollo Studio Explorer](screen.png "Apollo Studio Explorer")
 
